@@ -1,9 +1,11 @@
 # api documentation for  [react-native-cli (v2.0.1)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-cli)
 #### The React Native CLI tools
 
-[![NPM](https://nodei.co/npm/react-native-cli.png?downloads=true)](https://www.npmjs.com/package/react-native-cli)
+[![NPM](https://nodei.co/npm/react-native-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-cli)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-cli_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-cli/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-cli/build/screenCapture.npmPackageListing.svg)
 
@@ -43,37 +45,29 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "amasad",
-            "email": "amjad.masad@gmail.com"
+            "name": "amasad"
         },
         {
-            "name": "bestander",
-            "email": "bestander@gmail.com"
+            "name": "bestander"
         },
         {
-            "name": "fb",
-            "email": "opensource+npm@fb.com"
+            "name": "fb"
         },
         {
-            "name": "frantic",
-            "email": "alex.frantic@gmail.com"
+            "name": "frantic"
         },
         {
-            "name": "mkonicek",
-            "email": "martin.konicek@gmail.com"
+            "name": "mkonicek"
         },
         {
-            "name": "spicyj",
-            "email": "ben@benalpert.com"
+            "name": "spicyj"
         },
         {
-            "name": "vjeux",
-            "email": "vjeuxx@gmail.com"
+            "name": "vjeux"
         }
     ],
     "name": "react-native-cli",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/facebook/react-native.git"
@@ -84,16 +78,6 @@
     "version": "2.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-cli](#apidoc.module.react-native-cli)
-
-
-
-# <a name="apidoc.module.react-native-cli"></a>[module react-native-cli](#apidoc.module.react-native-cli)
 
 
 
