@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "react-native-cli",
-    "description": "api documentation for [react-native-cli (v2.0.1)](https://github.com/facebook/react-native#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-cli)",
+    "description": "#### basic api documentation for  [react-native-cli (v2.0.1)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-cli)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-native-cli": "*",

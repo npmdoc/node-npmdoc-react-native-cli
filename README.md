@@ -1,4 +1,7 @@
-# api documentation for  [react-native-cli (v2.0.1)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-cli)
+# npmdoc-react-native-cli
+
+#### basic api documentation for  [react-native-cli (v2.0.1)](https://github.com/facebook/react-native#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-cli)
+
 #### The React Native CLI tools
 
 [![NPM](https://nodei.co/npm/react-native-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-cli)
